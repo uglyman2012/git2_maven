@@ -8,6 +8,7 @@ public class Yun {
 
 
     public static void main(String[] args) {
+        System.out.println("sjdfal");
         System.out.println("sjdaf");
     }
 }
